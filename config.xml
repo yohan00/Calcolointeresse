@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.crt.app"
+    versionCode = "10"
+    version     = "1.0" >
+
+
+
+  <name>App Calcolo Interesse</name>
+
+  <description>
+      App per il calcolo l'interesse semplice dati il capitale iniziale, il tasso, il tempo.
+  </description>
+
+  <author email="perera.yohan@canosssamilano.org">
+		Yohan Perera
+  </author>
+
+<icon src="icona.png" platform?"android" qualifier="ldpi" />
+<icon src="icona.png" platform?"android" qualifier="mdpi" />
+<icon src="icona.png" platform?"android" qualifier="hdpi" />
+
+<icon src="icona.png" platform?"ios" qualifier="ldpi" />
+<icon src="icona.png" platform?"ios" qualifier="ldpi" />
+<icon src="icona.png" platform?"ios" qualifier="ldpi" />
+
+<access origin="*" />
+
+<plugin name="cordova-plugin-whiltelist" source="npm" />
+<allow-navigation href="*://*getskeleton.com/*" 7>
+
+
+
+
+
+
+
+</widget>
